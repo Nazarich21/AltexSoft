@@ -1,0 +1,16 @@
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\bin\Debug\net5.0\AltexSoft_Test.exe
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\bin\Debug\net5.0\AltexSoft_Test.deps.json
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\bin\Debug\net5.0\AltexSoft_Test.runtimeconfig.json
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\bin\Debug\net5.0\AltexSoft_Test.runtimeconfig.dev.json
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\bin\Debug\net5.0\AltexSoft_Test.dll
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\bin\Debug\net5.0\ref\AltexSoft_Test.dll
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\bin\Debug\net5.0\AltexSoft_Test.pdb
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.csprojAssemblyReference.cache
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.AssemblyInfoInputs.cache
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.AssemblyInfo.cs
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.csproj.CoreCompileInputs.cache
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.dll
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\ref\AltexSoft_Test.dll
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.pdb
+C:\Users\Artemii\source\repos\AltexSoft_Test\AltexSoft_Test\obj\Debug\net5.0\AltexSoft_Test.genruntimeconfig.cache
